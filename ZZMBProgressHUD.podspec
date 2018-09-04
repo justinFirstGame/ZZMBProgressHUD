@@ -3,7 +3,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "ZZMBProgressHUD"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "基于MBProgressHUD的简单封装"
   s.description  = <<-DESC
 这是我第一次建立pod仓库demo，基于MBProgressHUD的简单封装
