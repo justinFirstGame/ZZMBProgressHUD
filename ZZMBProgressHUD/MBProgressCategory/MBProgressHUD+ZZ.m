@@ -7,7 +7,7 @@
 //
 
 #import "MBProgressHUD+ZZ.h"
-
+#import <MBProgressHUD/MBProgressHUD.h>
 
 #define appWindow [[UIApplication sharedApplication].windows lastObject]
 // 时长

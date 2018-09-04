@@ -7,7 +7,6 @@
 //
 
 #import "FirstVC.h"
-#import <MBProgressHUD/MBProgressHUD.h>
 #import "MBProgressHUD+ZZ.h"
 
 @interface FirstVC ()<UITableViewDelegate, UITableViewDataSource>
