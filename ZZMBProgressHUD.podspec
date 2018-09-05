@@ -3,7 +3,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "ZZMBProgressHUD"
-  s.version      = "1.0.3"
+  s.version      = "1.0.4"
   s.summary      = "基于MBProgressHUD的简单封装"
   s.description  = <<-DESC
 这是我第一次建立pod仓库demo，基于MBProgressHUD的简单封装
@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://zzjustinForever:yy199208051923@github.com/justinFirstGame/ZZMBProgressHUD.git", :tag => "#{s.version}" }
 
-  s.source_files  = "MBProgressCategory", "ZZMBProgressHUD/MBProgressCategory/*.{h,m}"
+  s.source_files  = "MBProgressHUD+ZZ", "ZZMBProgressHUD/MBProgressCategory/MBProgressHUD+ZZ.{h,m}"
 
 
 
